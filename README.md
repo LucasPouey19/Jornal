@@ -42,3 +42,6 @@ Coluna de opinião:
 Com os estudos realizados sobre as profissões na Idade Moderna com suas dificuldades, funções e aprendizado, construímos uma coluna de opinião que relaciona uma das profissões estudadas, nesse caso os artesãos, com seu contexto com o mercado de trabalho contemporâneo e seus desafios.  
 
 Neste texto, apontamos informações sobre como era realizada essa profissão na Idade Média e como ela atua hoje em dia no mercado de trabalho. Com isso, concluímos que o avanço tecnológico está em constante mudança e isso impacta direta e indiretamente nos ramos de trabalhos atuais e que além de benefícios, o mesmo traz alguns desafios para os profissionais.  
+
+
+Lunk do site: https://lucaspouey19.github.io/Jornal/
