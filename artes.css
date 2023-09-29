@@ -1,0 +1,94 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+header {
+    display: flex;
+    background-color: #beaaaa;
+    color: white;
+    padding: 20px;
+    align-items: center;
+}
+
+header img {
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 15%;
+}
+
+.voltar img {
+    max-width: 100%;
+    width: 8%;
+    height: auto;
+    margin-left: 0;
+} 
+
+.logo img {
+    max-width: 100%;
+    width: 40%;
+    height: auto;
+    align-items: center;
+    align-items: center;
+    margin-left: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+section h2{
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    font-size: 19px;
+}
+
+.dtrb img{
+    max-width: 100%;
+    width: 70vw;
+    border-radius: 20px;
+}
+
+.dtrb a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+h4{
+    font-size: 20px;
+    border: 3px solid #beaaaa;
+    text-align: center;
+}
+
+.categorias {
+    display: flex;
+    background-color: #9c8d8d;
+    padding: px;
+    gap: 26vw;
+}
+
+.categorias a{
+    text-decoration: none;
+}
+
+.categorias h2{
+    font-size: 22px;
+    color: #000000;
+    text-decoration: none;
+}

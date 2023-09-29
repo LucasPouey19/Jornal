@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: fa;
+    src: url(fonts/futura\ book\ font.ttf) format(ttf);
+}
+
+header {
+    display: flex;
+    background-color: #beaaaa;
+    color: white;
+    padding: 20px;
+    align-items: center;
+}
+
+header img {
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 15%;
+    margin-left: 43%;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-box {
+    padding: 10px;
+    border: 2px solid #ffffff;
+    background-color: #00000000;
+    border-radius: 20px;
+    width: 170px;
+}
+
+.search-button {
+    padding: 10px 20px;
+    background-color: #9c8d8d;
+    color: #000000;
+    border: none;
+    border: 2px solid #ffffff;
+    border-radius: 40px;
+    cursor: pointer;
+}
+
+.categorias {
+    display: flex;
+    background-color: #dedede;
+    padding: 13px;
+    gap: 22%;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-between;
+    background-color: #f4f4f4;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 23%;
+}
+
+.sidebar section, a {
+    display: flex;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    width: 98%;
+    color: #000000;
+    text-decoration: none;
+}
+
+.sidebar section{
+    display: flex;
+    align-items: center;
+    width: 20vw;
+}
+
+.sidebar section:hover{
+    background-color: #a8a8a8;
+
+    transition: 0.5s;
+}
+
+.pc a{
+    margin: 0 auto;
+}
+
+.sidebar img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    /* margin-bottom: 10px; */
+    border-radius: 7px;
+}
+
+.imagem-3{
+    width: 100vw;
+    /* height: 100px; */
+}
+.noticia-pr {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 100%;
+    background-color: #f4f4f4;
+    margin: 10px;
+    border-radius: 15px
+}
+
+.noticia-pr:hover{
+    background-color: #a5a5a5;
+
+    transition: 0.5s;
+}
+
+.texto {
+    margin-left: 8%;
+    margin-right: 8%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.texto h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.noticia-pr img {
+    margin: 8%;
+    margin-top: 30px;
+    margin-bottom: 1px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgb(63, 63, 63);
+}
+
+.pc {
+    display: flex;
+    margin-left: 0px;
+}
+
+.sidebar h4{
+    margin-left: 0px;
+    width: 10vw;
+}
